@@ -1,0 +1,215 @@
+{
+  "main": {
+    "id": "45e75b09273f2cb5",
+    "type": "split",
+    "children": [
+      {
+        "id": "f86d784976811c4a",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "442e5e5676f7448b",
+            "type": "leaf",
+            "state": {
+              "type": "markdown",
+              "state": {
+                "file": "recipes/Curry from Paste.md",
+                "mode": "preview",
+                "source": false
+              },
+              "icon": "lucide-file",
+              "title": "Curry from Paste"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "920bf0899f53cee4",
+    "type": "split",
+    "children": [
+      {
+        "id": "48d7e1b0f8b32e62",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "46281fcf43562bf6",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical",
+                "autoReveal": false
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Files"
+            }
+          },
+          {
+            "id": "23e73dfd698f8204",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Search"
+            }
+          },
+          {
+            "id": "8285c1cb7f6323ef",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Bookmarks"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "45d584b94e66a199",
+    "type": "split",
+    "children": [
+      {
+        "id": "c0a4c00a81c3f862",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b68466b5c0a0ea4a",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "recipes/Gnocchi with Brussels Sprouts.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Backlinks for Gnocchi with Brussels Sprouts"
+            }
+          },
+          {
+            "id": "57b1bbbc0eeeec4c",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "recipes/Gnocchi with Brussels Sprouts.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Outgoing links from Gnocchi with Brussels Sprouts"
+            }
+          },
+          {
+            "id": "a54d5b3cc31105f9",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-tags",
+              "title": "Tags"
+            }
+          },
+          {
+            "id": "99f88468c5062029",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "recipes/Gnocchi with Brussels Sprouts.md",
+                "followCursor": false,
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-list",
+              "title": "Outline of Gnocchi with Brussels Sprouts"
+            }
+          },
+          {
+            "id": "e04c276423c28771",
+            "type": "leaf",
+            "state": {
+              "type": "all-properties",
+              "state": {
+                "sortOrder": "frequency",
+                "showSearch": false,
+                "searchQuery": ""
+              },
+              "icon": "lucide-archive",
+              "title": "All properties"
+            }
+          },
+          {
+            "id": "052478e27fd651a8",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {},
+              "icon": "calendar-with-checkmark",
+              "title": "Calendar"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "markdown-importer:Open format converter": false,
+      "audio-recorder:Start/stop recording": false,
+      "switcher:Open quick switcher": false,
+      "graph:Open graph view": false,
+      "canvas:Create new canvas": false,
+      "daily-notes:Open today's daily note": false,
+      "templates:Insert template": false,
+      "command-palette:Open command palette": false
+    }
+  },
+  "active": "46281fcf43562bf6",
+  "lastOpenFiles": [
+    "recipes/Chili (Vegan meat and black bean, more purist).md",
+    "recipes/Chili (Bell Pepper and Bean).md",
+    "recipes/Black Bean Soup.md",
+    "recipes/Vegetable Soup.md",
+    "recipes/Roasted Vegetables.md",
+    "recipes/Rice and Beans.md",
+    "recipes/Curry from Paste.md",
+    "recipes/Empanadas (Vegan meat and potato filling).md",
+    "recipes/Ottolenghi Lentil Coconut Soup.md",
+    "recipes/Millet Cornbread.md",
+    "recipes/Anna's Dal.md",
+    "recipes/Gnocchi with Brussels Sprouts.md",
+    "recipes",
+    "Welcome.md",
+    "create a link.md"
+  ]
+}

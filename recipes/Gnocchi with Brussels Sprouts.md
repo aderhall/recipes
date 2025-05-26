@@ -1,0 +1,15 @@
+- Heat 3tbsp olive oil on med-hi. Add
+- [ ] 1lb brussels or other brassica (eg kale?), trimmed and halved
+- Season with 1/2 tsp salt & pepper to taste. Arrange brussels in even layer, flat side down. Scatter over:
+- [ ] 1 lemon, zest strips removed with veg peeler and coarsely chopped
+- Cook 3-5 min until brussels are well-browned. Add
+- [ ] 1/2 tsp red pepper flakes
+- Cook 2-3 min until crisp-tender. Put in bowl.
+- Heat 1 tbsp olive oil on med-hi. Add
+- [ ] 18oz gnocchi, breaking up any stuck together
+- Cook 2-4 min, covered without stirring until golden brown on one side. Add:
+- [ ] 6tbsp unsalted butter, sliced into 6 pc
+- [ ] 1/2 tsp honey
+- Season with salt & pepper, cook 1-2 min stirring until butter is golden, foamy and smells nutty.
+- Stir in brussels until warm. Garnish:
+- [ ] Parmesan, grated

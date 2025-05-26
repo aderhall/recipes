@@ -1,0 +1,16 @@
+{
+  "promptDelete": false,
+  "pdfExportSettings": {
+    "includeName": true,
+    "pageSize": "Letter",
+    "landscape": false,
+    "margin": "0",
+    "downscalePercent": 80
+  },
+  "alwaysUpdateLinks": true,
+  "attachmentFolderPath": "_attachments",
+  "userIgnoreFilters": [],
+  "strictLineBreaks": true,
+  "vimMode": false,
+  "spellcheck": false
+}

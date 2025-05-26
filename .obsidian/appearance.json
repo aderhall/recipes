@@ -1,0 +1,12 @@
+{
+  "cssTheme": "Minimal",
+  "theme": "system",
+  "translucency": false,
+  "enabledCssSnippets": [
+    "cm-active",
+    "hide-attachments"
+  ],
+  "baseFontSize": 15,
+  "accentColor": "#b34a37",
+  "nativeMenus": false
+}

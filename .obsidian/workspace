@@ -1,0 +1,168 @@
+{
+  "main": {
+    "id": "0461c82ad94ec6ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "34de75fc07b35644",
+        "type": "leaf",
+        "state": {
+          "type": "markdown",
+          "state": {
+            "file": "ECs/Liquid/Power supply.md",
+            "mode": "source",
+            "source": false
+          }
+        }
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "a3d4ff565c60c2ce",
+    "type": "split",
+    "children": [
+      {
+        "id": "20d53c44833e031c",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "e387c79fed3775ff",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {}
+            }
+          },
+          {
+            "id": "00bdc1674e8a34ba",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              }
+            }
+          },
+          {
+            "id": "8a9f1d3174b0ae5e",
+            "type": "leaf",
+            "state": {
+              "type": "starred",
+              "state": {}
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 324.5
+  },
+  "right": {
+    "id": "3cbf7d5e8d82703a",
+    "type": "split",
+    "children": [
+      {
+        "id": "f5497dad12dca298",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "b3e947956460c81b",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "file": "ECs/Liquid/Power supply.md",
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "3e0e80f0e1eebd10",
+            "type": "leaf",
+            "state": {
+              "type": "calendar",
+              "state": {}
+            }
+          },
+          {
+            "id": "fce5d8e5ccb80a3d",
+            "type": "leaf",
+            "state": {
+              "type": "advanced-tables-toolbar",
+              "state": {}
+            }
+          },
+          {
+            "id": "4d59714c76d2880d",
+            "type": "leaf",
+            "state": {
+              "type": "git-view",
+              "state": {}
+            }
+          },
+          {
+            "id": "7a58ba2068352817",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {
+                "file": "ECs/Liquid/Power supply.md"
+              }
+            }
+          },
+          {
+            "id": "c974eec7a5dd472e",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "file": "ECs/Liquid/Power supply.md",
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              }
+            }
+          },
+          {
+            "id": "eb02a1fbf4c93a73",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              }
+            }
+          }
+        ],
+        "currentTab": 2
+      }
+    ],
+    "direction": "horizontal",
+    "width": 287
+  },
+  "active": "34de75fc07b35644",
+  "lastOpenFiles": [
+    "F22/CGSC 110/Reading responses/Reading responses 10-13.md",
+    "F22/CGSC 110/Reading responses/Reading responses 10-11.md",
+    "F22/MB&B 364/Fourier optics lab write-up.md",
+    "F22/CGSC 110/Reading responses/Reading responses 10-6.md",
+    "Language.md",
+    "Obfuscation.md",
+    "F22/CGSC 110/Notes/Notes on modularity.md",
+    "F22/CGSC 110/Notes/Notes on class as a whole.md",
+    "Recording 20221004163027.webm",
+    "F22/CGSC 110/Reading responses/Reading responses 9-6.md"
+  ]
+}
