@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "recipes/Curry from Paste.md",
-                "mode": "preview",
+                "file": "Masala tofu w lemon rice and raita.md",
+                "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "Curry from Paste"
+              "title": "Masala tofu w lemon rice and raita"
             }
           }
         ]
@@ -41,7 +41,9 @@
               "type": "file-explorer",
               "state": {
                 "sortOrder": "alphabetical",
-                "autoReveal": false
+                "autoReveal": false,
+                "showSearch": false,
+                "searchQuery": ""
               },
               "icon": "lucide-folder-closed",
               "title": "Files"
@@ -184,6 +186,7 @@
   },
   "left-ribbon": {
     "hiddenItems": {
+      "bases:Create new base": false,
       "markdown-importer:Open format converter": false,
       "audio-recorder:Start/stop recording": false,
       "switcher:Open quick switcher": false,
@@ -194,16 +197,17 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "46281fcf43562bf6",
+  "active": "442e5e5676f7448b",
   "lastOpenFiles": [
+    "recipes/Empanadas (Vegan meat and potato filling).md",
+    "Masala tofu w lemon rice and raita.md",
+    "recipes/Curry from Paste.md",
     "recipes/Chili (Vegan meat and black bean, more purist).md",
     "recipes/Chili (Bell Pepper and Bean).md",
     "recipes/Black Bean Soup.md",
     "recipes/Vegetable Soup.md",
     "recipes/Roasted Vegetables.md",
     "recipes/Rice and Beans.md",
-    "recipes/Curry from Paste.md",
-    "recipes/Empanadas (Vegan meat and potato filling).md",
     "recipes/Ottolenghi Lentil Coconut Soup.md",
     "recipes/Millet Cornbread.md",
     "recipes/Anna's Dal.md",
